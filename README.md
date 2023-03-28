@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rea-jin
-- 👀 I’m interested in PHP, JavaScript, Python, Ruby, CSS, AWS,...and so on. 
-- 🌱 I’m currently learning framework of PHP and JS...
+- 👋 Hi, I’m @rea-jin, a web engineer.
+- 👀 I’m interested in PHP, JavaScript, Python, Ruby, CSS, AWS, Azure, ...and so on. 
+- 🌱 I’m currently learning framework of PHP and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
